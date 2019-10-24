@@ -1,10 +1,25 @@
-# flutter_apicalling
+# flutter_firebaseApp
 
-A new Flutter application.
-<p float="left">
-<img src="https://github.com/shubhamaniket/Firebase-App/blob/master/Screenshots/Screenshot_1571932840.png" width=200>
-<img src="https://github.com/shubhamaniket/Firebase-App/blob/master/Screenshots/Screenshot_1571932844.png" width=200>
-<img src="https://github.com/shubhamaniket/Firebase-App/blob/master/Screenshots/Screenshot_1571932840.png" width=200>
+## Building
+
+You can follow these instructions to build the appand install it onto your device.
+
+### Prerequisites
+
+If you are new to Flutter, please first follow the [Flutter Setup](https://flutter.dev/setup/) guide.
+
+### Building and installing the Flutter app
+
+* `cd Firebase-App`
+* `flutter pub get`
+* `flutter run --release`
+
+The `flutter run --release` command both builds and installs the Flutter app.
+
+<p>
+  <img src="https://github.com/shubhamaniket/Firebase-App/blob/master/Screenshots/Screenshot_1571932840.png" width=200>
+  <img src="https://github.com/shubhamaniket/Firebase-App/blob/master/Screenshots/Screenshot_1571932844.png" width=200>
+  <img src="https://github.com/shubhamaniket/Firebase-App/blob/master/Screenshots/Screenshot_1571932849.png" width=200>
 </p>
 
 
